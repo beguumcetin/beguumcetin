@@ -31,4 +31,4 @@ Python and R most days, SQL, and Power BI or Tableau for dashboards. For models 
 
 I'm learning how to deploy and monitor models properly, working on my English, and looking for a data science or analytics internship for 2027.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/beguumcetin).
+You can find me on [LinkedIn](https://www.linkedin.com/in/beguumcetin) or write to begumcetin22@gmail.com.
