@@ -19,7 +19,7 @@ Also from İTO. It pulls exchange rates, gold prices and inflation from the Cent
 A Streamlit app for a small café: sales forecasts, customer segments, unusual days in the data and a simulator for "what happens if we run this discount?"
 
 **[Gold price prediction](https://github.com/beguumcetin/gold_prediction_project)**<br>
-One of my first projects: predicting the next day's gram gold price from ten years of daily data, with linear regression written from scratch.
+One of my first projects: predicting the next day's gram gold price from five years of daily data, with linear regression written from scratch.
 
 During the internship I also built a Tableau dashboard of Istanbul job postings across 39 districts and 50 sectors, using data I scraped myself.
 
