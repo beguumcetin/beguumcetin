@@ -18,6 +18,9 @@ Also from İTO. It pulls exchange rates, gold prices and inflation from the Cent
 **[Coffee shop decision support](https://github.com/beguumcetin/Kafe-Karar-Destek-Sistemi)**<br>
 A Streamlit app for a small café: sales forecasts, customer segments, unusual days in the data and a simulator for "what happens if we run this discount?"
 
+**[Olist e-commerce analysis](https://github.com/beguumcetin/olist-ecommerce-analytics)** ([live dashboard](https://beguumcetin.github.io/olist-ecommerce-analytics/))<br>
+A SQL-first analysis of 99,000 orders from a Brazilian marketplace, run in DuckDB. 97% of customers order only once, and a late delivery costs about 1.5 review points even after holding the product, the state and the order size fixed. The findings are in a dashboard I built as a single HTML page.
+
 **[Gold price prediction](https://github.com/beguumcetin/gold_prediction_project)**<br>
 One of my first projects: predicting the next day's gram gold price from five years of daily data, with linear regression written from scratch.
 
@@ -29,6 +32,6 @@ Python and R most days, SQL, and Power BI or Tableau for dashboards. For models 
 
 #### Right now
 
-I'm learning how to deploy and monitor models properly, working on my English, and looking for a data science or analytics internship for 2027.
+I'm learning how to deploy and monitor models properly, working on my English, and looking for a data science or analytics internship for 2027. I'm also building a day-ahead forecast of Türkiye's electricity demand and comparing it with the grid operator's own load plan.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/beguumcetin) or write to begumcetin22@gmail.com.
