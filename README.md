@@ -12,6 +12,9 @@ Scores every transaction in real time using the last 24 hours of account activit
 **[Turkish tweet sentiment](https://github.com/beguumcetin/x-sentiment-analysis)**<br>
 My summer 2026 internship project at the Istanbul Chamber of Commerce (İTO). I hand-labelled a gold set, compared three Turkish BERT models and fine-tuned the best one with LoRA. Accuracy went from 61.5% to 81%, and the neutral tweets were the hardest part.
 
+**[Türkiye electricity demand forecast](https://github.com/beguumcetin/turkey-electricity-forecast)**<br>
+Forecasts every hour of tomorrow's national electricity demand using only what is known the morning before, including archived weather forecasts instead of the weather that actually happened. Across three test years the LightGBM model was off by 2.3–2.5% on average, against 2.6–3.5% for the official load plan. In the latest year the plan caught up and the gap is within noise. Tests check that no feature can see the future.
+
 **[Weekly economy bulletin](https://github.com/beguumcetin/weekly-bulletin-generator)**<br>
 Also from İTO. It pulls exchange rates, gold prices and inflation from the Central Bank's EVDS API, stores them in Supabase and has Gemini write a neutral weekly bulletin, so anyone in the office can make one without touching code.
 
@@ -32,6 +35,6 @@ Python and R most days, SQL, and Power BI or Tableau for dashboards. For models 
 
 #### Right now
 
-I'm learning how to deploy and monitor models properly, working on my English, and looking for a data science or analytics internship for 2027. I'm also building a day-ahead forecast of Türkiye's electricity demand and comparing it with the grid operator's own load plan.
+I'm learning how to deploy and monitor models properly, working on my English, and looking for a data science or analytics internship for 2027.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/beguumcetin) or write to begumcetin22@gmail.com.
